@@ -1,0 +1,50 @@
+body{
+    background-color: grey;
+}
+
+header{
+    text-align: center;
+    background-color: aliceblue;
+    width: 55vw;
+    height: 18vh;
+    margin-left: 50vh;
+    margin-bottom: 1vh;
+    color: grey;
+}
+
+section{
+    text-align: center;
+    background-color: aliceblue;
+    width: 30vw;
+    height: 30vh;
+    margin-left: 50vh;
+    margin-bottom: 1vh;
+    color: grey;
+    display: inline-block;
+}
+
+article{
+    background-color: grey;
+    width: 27vw;
+    height: 20vh;
+    margin-left: 3vh;
+    color: grey;
+}
+
+h1{
+    background-color: aliceblue;
+    width: 20vw;
+    margin-left: 8vh;
+    height: 4vh;
+}
+
+aside{
+    display: inline-block;
+    color: grey;
+    position: absolute;
+    margin-left: 2vh;
+    text-align: center;
+    background-color: aliceblue;
+    height: 30vh;
+    width: 24vw;
+}
